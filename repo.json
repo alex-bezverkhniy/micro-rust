@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "rust",
+    "Description": "Rust language support (rustfmt and cargo)",
+    "Tags": [
+      "rust",
+      "rustc"
+    ],
+    "Website": "https://github.com/alex-bezverkhniy/micro-rust-plugin",
+    "Versions": [
+      {
+        "Version": "0.0.1",
+        "Url": "https://github.com/alex-bezverkhniy/micro-rust-plugin/archive/v0.0.1.zip",
+        "Require": {
+          "micro": ">=2.0.0-1"
+        }
+      }
+   ]
+  }
+]
